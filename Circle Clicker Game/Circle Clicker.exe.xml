@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\Claudio\Desktop\circle_clicker.jar</jar>
+  <outfile>Circle Clicker.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl></downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon></icon>
+  <jre>
+    <path>%JAVA_HOME%;%PATH%</path>
+    <requiresJdk>false</requiresJdk>
+    <requires64Bit>false</requires64Bit>
+    <minVersion>1.8.0</minVersion>
+    <maxVersion></maxVersion>
+  </jre>
+  <versionInfo>
+    <fileVersion>1.0.0.0</fileVersion>
+    <txtFileVersion>Beta</txtFileVersion>
+    <fileDescription>Simple circle clicker game</fileDescription>
+    <copyright>Claudio_Violante</copyright>
+    <productVersion>1.0.0.0</productVersion>
+    <txtProductVersion>Beta</txtProductVersion>
+    <productName>Circle Clicker.exe</productName>
+    <companyName></companyName>
+    <internalName>Circle Clicker Game</internalName>
+    <originalFilename>Circle Clicker.exe</originalFilename>
+    <trademarks></trademarks>
+    <language>ENGLISH_US</language>
+  </versionInfo>
+</launch4jConfig>
